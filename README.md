@@ -1,4 +1,4 @@
-# Carcus-AI
+# Carpus-AI
 Carpus-AI: Carpus (From the scientific name for wrist), Carpus is an AI powered smart well-being device disguising as a wristwatch, that combines the functionalities of a fitness tracker, smartwatch and personal assistant.
 
 ## Why?
